@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Fouriererer.vcxproj" Id="65330c42-81a4-4984-820f-a9fdfe7830bc" />
+</Solution>
